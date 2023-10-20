@@ -73,7 +73,7 @@
 ### 1. 플러터 설치
 
 ### 2. Git Code 다운로드
-- 관련 문서 및 git 주소를 참고하여 코드를 다운로드합니다.
+- 관련 문서 및 git 주소를 참고하여 코드를 다운로드합니다. (https://github.com/vladiH/flutter_vision)
 - `example/android/build.gardle` 파일에서 Line 39의 `minSdkVersion`을 21로 수정합니다.
 
 ### 3. tflite 모델 및 라벨 정보 적용
