@@ -1,5 +1,5 @@
 # YOLOv8 이미지 수집, 라벨링, 학습, 모델변환, 플러터 앱 적용 방법
-
+[![테스트영상 ](http://img.youtube.com/vi/dCNm0Gi_59Q/0.jpg)](https://youtu.be/dCNm0Gi_59Q)
 ## 1. 이미지 수집 방법
 
 ### 1-1) 크롬 확장 프로그램 이용: [Fatkun 일괄 다운로드 이미지 - Chrome 웹 스토어 (google.com)](https://google.com)
